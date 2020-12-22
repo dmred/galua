@@ -990,7 +990,6 @@ class pthRootOfUnity():
 
 def generate_field(p, primitive):
   primitive = primitive[::-1]
-  print(primitive)
 
   ges_wrong_order = GaloisField(2, p, primitive).elements
 
