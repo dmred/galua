@@ -1,14 +1,3 @@
-                                                               
-# -*- coding: utf-8 -*-                                                            
-#                                                                                  
-# galoisfield.py: Implementation of a full finite field. 
-#                                                                                  
-# © 2016 Olivia Di Matteo (odimatte@uwaterloo.ca)                                  
-#                                                                                  
-# This file is part of the project PyniteFields.                                      
-# Licensed under BSD-3-Clause                                                      
-# 
-
 import sys
 import math
 
